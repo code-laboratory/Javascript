@@ -3,10 +3,10 @@ JavaScript projects
 
 speed Typing Game
 
-https://github.com/code-laboratory/Javascript/assets/72755430/0fbc8ac9-d4a2-4e2f-b03f-1103bf3caae4
+https://github.com/code-laboratory/Javascript/assets/72755430/9e1ff773-deaa-4207-bf49-3145af267eae
 
 
 Todo list
 
-https://github.com/code-laboratory/Javascript/assets/72755430/7e9c6c81-a35f-4692-a48f-17642a871967
+https://github.com/code-laboratory/Javascript/assets/72755430/7ece9420-ad45-48f9-8469-ecb1dd02eb72
 
